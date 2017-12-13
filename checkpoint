@@ -1,0 +1,2 @@
+model_checkpoint_path: "/Users/amolgade/PycharmProjects/tensor-mole-classifier/skin.ckpt"
+all_model_checkpoint_paths: "/Users/amolgade/PycharmProjects/tensor-mole-classifier/skin.ckpt"
